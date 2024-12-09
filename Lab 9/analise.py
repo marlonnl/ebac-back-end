@@ -68,4 +68,5 @@ if len(argv) == 1:
   captar_cdi()
 else:
   # Criar gráfico
+  # sintaxe: analise.py nome_do_arquivo_do_grafico
   criar_grafico(argv[1])
